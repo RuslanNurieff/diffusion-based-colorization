@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.env/
+.pix2pix/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
